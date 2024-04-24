@@ -1,10 +1,11 @@
+<img src="https://komarev.com/ghpvc/?username=your-github-antoninab4&style=flat-square&color=blue" alt=""/>
+
 <p align="center">
   <h3 align="center">Hi, I'm Aleksey</h3>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer+👨‍💻&font=Fira%20Code&center=true&width=380&height=50">
-</p>
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antoninab4&theme=solarized_dark)
+
 
 <h3>Languages</h3>
 
@@ -17,49 +18,204 @@
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-<h3>Frameworks / Platforms / Libraries</h3>
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-<h3>Environment</h3>
-
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-
-
-<h3>Design Instruments</h3>
-
-![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
 
 <!-- https://github.com/Ileriayo/markdown-badges -->
 
-<img src="https://komarev.com/ghpvc/?username=your-github-antoninab4&style=flat-square&color=blue" alt=""/>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=antoninab4&theme=solarized_dark)
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <h2><i>M A I N N E T S</i></h2>
+  </div>
+</div>
 
-<a href="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats?repo_id=41986369" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=dark" width="662" height="auto">
-    <img alt="Performance Stats of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-last-28-days-stats/thumbnail.png?repo_id=41986369&image_size=auto&color_scheme=light" width="662" height="auto">
-  </picture>
-</a>
+<table width="350px" align="center">
+    <tbody>
+        <tr valign="top">
+            <td width="130px" align="center">
+            <span><strong>TERITORI</strong></span><br><br />
+            <a href="https://www.mintscan.io/teritori/validators/torivaloper1hmedj8s2nd06tjx9yqhnvy2pmkf78vv76gr5pj" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/teritori.svg">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>QUICKSILVER</strong></span><br><br />
+            <a href="https://www.mintscan.io/quicksilver/validators/quickvaloper1wklm0cn5shfq5q06fp5efpj2qzdgca5g0malkf" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/quicksilver-logo.15feec233d89d5ada7b0.png">
+            </td>
+            <td width="130px" align="center">
+            <span><strong>PALOMA</strong></span><br><br />
+            <a href="https://paloma.explorers.guru/validator/palomavaloper19svt6tkvnu9wcjfwz2daglnxtm0frcavwjwcqe" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/Paloma_black.png"> </a>
+            </td>
+          </tr>
+    </tbody>
+</table>
+<table width="320px" align="center">
+    <tbody>
+        <tr valign="top">
+            <td width="130px" align="center">
+            <span><strong>COMPOSABLE</strong></span><br><br />
+            <a href="https://ping.pub/Centauri/staking/centaurivaloper1xj806ur5e9s2yzaag8wyffp542pkkmdat7ty95" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/composable.png"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>HAQQ</strong></span><br><br />
+            <a href="https://haqq.explorers.guru/validator/haqqvaloper18k4qjmancvhfy99qjv2uzdxjgjwav0hlwq7rws" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/haqq.png"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>KYVE</strong></span><br><br />
+            <a href="https://app.kyve.network/#/validators/kyve1mj4k2cxx09ramcp58fqr6nex8gmz6uyczz0ll0" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/Kyve.png"> </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
 
-<a href="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors?repo_id=41986369&limit=30" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=30&image_size=auto&color_scheme=dark" width="662" height="auto">
-    <img alt="Active Contributors of pingcap/tidb - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-recent-active-contributors/thumbnail.png?repo_id=41986369&limit=30&image_size=auto&color_scheme=light" width="662" height="auto">
-  </picture>
-</a>
 
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <h2><i>A C T I V E &nbsp; T E S T N E T S</i></h2>
+  </div>
+</div>
 
+<table width="320px" align="center">
+    <tbody>
+        <tr valign="top">
+            <td width="130px" align="center">
+            <span><strong>HAQQ</strong></span><br><br />
+            <a href="https://testnet.ping.pub/haqq/staking/haqqvaloper1n7qt0f76ylmvjfr5fkr3ydylsxz8dyzuzwz7eh" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/haqq.png"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>KYVE</strong></span><br><br />
+            <a href="https://app.kaon.kyve.network/#/validators/kyve1mj4k2cxx09ramcp58fqr6nex8gmz6uyczz0ll0" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/Kyve.png"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>PALOMA</strong></span><br><br />
+            <a href="https://testnet.paloma.explorers.guru/validator/palomavaloper19svt6tkvnu9wcjfwz2daglnxtm0frcavwjwcqe" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/Paloma_black.png"> </a>
+            </td>
+          </tr>
+    </tbody>
+</table>
+<table width="320px" align="center">
+    <tbody>
+        <tr valign="top">
+            <td width="130px" align="center">
+            <span><strong>COMPOSABLE</strong></span><br><br />
+            <a href="https://explorer.nodex.one/banksy-testnet/staking/centaurivaloper1gwhwj5qh9yr5jdz54q982q7mugnj23hv7ptnwp" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/composable.png"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>QUICKSILVER</strong></span><br><br />
+            <a href="https://testnet.quicksilver.explorers.guru/validator/quickvaloper193kqrgj8kd5nhufv4cas3cqg9mcvul3uqu4sra" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/quicksilver-logo.15feec233d89d5ada7b0.png">
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <h2><i>C O M P L E T E D &nbsp; O R &nbsp; P E N D I N G &nbsp; U P D A T E &nbsp; P R O J E C T S</i></h2>
+  </div>
+</div>
+
+<table width="320px" align="center">
+    <tbody>
+        <tr valign="top">
+            <td width="130px" align="center">
+            <span><strong>ARCHWAY</strong></span><br><br />
+            <a href="https://archway.io" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/Archway.png"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>KIRA</strong></span><br><br />
+            <a href="https://ipfs.kira.network/ipfs/bafybeiapi3vmiijbgaq3wakuzkgtna2lflcejj7lpoi6qgrx47bseo64yq" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/Kira.png"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>KYVE</strong></span><br><br />
+            <a href="https://www.kyve.network" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/Kyve.png"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>MASA</strong></span><br><br />
+            <a href="https://www.masa.finance" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/Masa.png"> </a>
+            </td>
+          </tr>
+    </tbody>
+</table>
+<table width="320px" align="center">
+    <tbody>
+        <tr valign="top">
+            <td width="130px" align="center">
+            <span><strong>NEAR</strong></span><br><br />
+            <a href="https://near.org" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/Near.png"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>OBOL</strong></span><br><br />
+            <a href="https://obol.tech" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/Obol.png"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>STRIDE</strong></span><br><br />
+            <a href="https://stride.zone" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/stride.png"> </a>
+            </td>
+          </tr>
+    </tbody>
+</table>
+<table width="320px" align="center">
+    <tbody>
+        <tr valign="top">
+            <td width="130px" align="center">
+            <span><strong>SUBSPACE</strong></span><br><br />
+            <a href="https://subspace.network" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/Subspace.jfif"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>HUMANS</strong></span><br><br />
+            <a href="https://humans.ai/" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/h-logo.svg"> </a>
+            </td>
+            <td width="130px" align="center">
+            <span><strong>MARS</strong></span><br><br />
+            <a href="https://marsprotocol.io/" target="_blank" rel="noopener noreferrer">
+            <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/mars.png"> </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <h2><i>C O N T A C T S</i></h2>
+  <br />
+  <br />
+  </div>
+</div>
+
+   <li> Email: WingsNodeTeam@gmail.com</li>
+   <li> Telegram: https://t.me/wnt_admin</li>
+   <li> Discord: ot_morozki_wnt</li>
+   <li> Twitter: https://twitter.com/on_morozky</li>
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+  <h2><i>G I T H U B &nbsp; S T A T S</i></h2>
+  </div>
+</div>
+
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
+<br />
+<br />
+    <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=antoninab4&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D"/>
+<br />
+<br />
+  </div>
+</div>
