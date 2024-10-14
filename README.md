@@ -43,7 +43,7 @@
             </td>
             <td width="130px" align="center">
             <span><strong>PALOMA</strong></span><br><br />
-            <a href="https://paloma.explorers.guru/validator/palomavaloper1j2zvqhxqycxlxj3stnmun8060wfhfw57n3znmt" target="_blank" rel="noopener noreferrer">
+            <a href="https://paloma.explorers.guru/validator/palomavaloper108cvju0yxh4dhj7vyntr3yx59r7hf4n7kyzhu4" target="_blank" rel="noopener noreferrer">
             <img height="40px" src="https://github.com/VitaValeriya/explorer/blob/master/public/logos/Paloma_black.png"> </a>
             </td>
           </tr>
