@@ -202,7 +202,7 @@
    <li> Email: WingsNodeTeam@gmail.com</li>
    <li> Telegram: https://t.me/wnt_admin_help</li>
    <li> Discord: ot_morozki_wnt</li>
-   <li> Twitter: https://twitter.com/wingsnodeteam</li>
+   <li> Twitter: https://x.com/on_morozky</li>
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
