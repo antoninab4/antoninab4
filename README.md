@@ -24,7 +24,7 @@
 
 <div align="center">
   <div style="display: flex; align-items: flex-start;">
-  <h2><i>M A I N N E T S</i></h2>
+  <h2><i>M A I N N E T  S</i></h2>
   </div>
 </div>
 
